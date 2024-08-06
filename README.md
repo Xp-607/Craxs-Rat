@@ -10,12 +10,16 @@ Source Code ( Craxs_Rat V7.2) Sln VisualStudio
 - https://www.youtube.com/watch?v=JqahJgp6WCk
 
 
-#CraxsRat V7.2 
+- CraxsRat V7.2
 
--Source Code Full
+- Source Code Full
 
--Sln Visual Studio Project
+- Sln Visual Studio Project
 
-Only 250$
+- Only 250$
 
----- BY ( https://t.me/xp_607 ) ------
+- ---- BY ( https://t.me/xp_607 ) ------
+
+
+
+
